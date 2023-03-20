@@ -7,10 +7,10 @@ O conhecimento adquirido neste módulo será essencial para os módulos subseque
 
 ## Tópicos abordados no Módulo de Fundamentos
 
-* Unix, shell e Git
-* Introdução ao HTML e CSS
-* Introdução à JavaScript
-* JavaScript: DOM, Eventos e Web Storage
-* HTML e CSS: Forms, Flexbox e Resposivo
-* Introdução à Javascript ES6 e Testes Unitários
-* Higher Order Functions 
+- Unix, shell e Git
+- Introdução ao HTML e CSS
+- Introdução à JavaScript
+- JavaScript: DOM, Eventos e Web Storage
+- HTML e CSS: Forms, Flexbox e Resposivo
+- Introdução à Javascript ES6 e Testes Unitários
+- Higher Order Functions 
