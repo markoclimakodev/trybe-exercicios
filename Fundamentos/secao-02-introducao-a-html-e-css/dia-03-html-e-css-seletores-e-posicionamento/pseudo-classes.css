@@ -1,0 +1,35 @@
+div:hover {
+  border: solid blue 2px;
+}
+
+h3 {
+  font-size: 18px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: lighter;
+}
+
+div:nth-child(odd) h3{
+  font-style: italic;
+  color: rgb(94, 93, 93);
+}
+
+div:nth-of-type(1) {
+  background: orangered;
+}
+
+div:nth-of-type(2) {
+  background: greenyellow;
+}
+
+div:nth-of-type(3) {
+  background: cyan;
+  padding: 40px;
+}
+
+div:nth-of-type(4) {
+  background: purple;
+}
+
+div:nth-of-type(5) {
+  background: violet;
+}
